@@ -1,4 +1,8 @@
-# Conda-forge (NunFOCUS)
+'''
+title: Conda-forge (NunFOCUS)
+layout = post
+'''
+
 My goal creating this page is to:
 1. Have different point of views of the structure of conda-forge;
 2. Try to understand more about some fundamental concepts of the conda-forge auto-tick bot;

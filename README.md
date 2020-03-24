@@ -1,7 +1,8 @@
-'''
+---
 title: Conda-forge (NunFOCUS)
-layout = post
-'''
+author: Vinicius
+layout: post
+---
 
 My goal creating this page is to:
 1. Have different point of views of the structure of conda-forge;
